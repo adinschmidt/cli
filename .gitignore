@@ -1,0 +1,4 @@
+# Child repos are tracked independently.
+fastmail-cli/
+splitwise-cli/
+.DS_Store
